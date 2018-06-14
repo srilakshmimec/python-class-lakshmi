@@ -1,0 +1,11 @@
+class Person:
+    def __init__(self):
+        self.name='Ritu'
+        self.age=20
+        self.gender='male'
+    def _
+def printYes():
+    print('Yes')
+
+a=Person()
+a.printYes()
